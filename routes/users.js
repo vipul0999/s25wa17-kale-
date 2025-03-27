@@ -1,6 +1,7 @@
 var express = require('express');
 var router = express.Router();
 
+// Initialize variables
 let ratio = 0.75;
 let acc = 1000;
 
